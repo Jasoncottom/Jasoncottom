@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-[![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/Jasoncottom)[![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/Jasoncottom)
+[![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/Jasoncottom)[![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/Jasoncottom)
 
 
 
