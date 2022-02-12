@@ -1,16 +1,59 @@
-# github-profile-summary-cards-example
+# Hi there 👋 I'm **GAVT**
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<!--
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasoncottom&theme=nord_bright)
 
-```To create your profile README you need to name the repo as your username```
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<br/>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 🔭 **I’m currently working on Backend**
+- 🌱 **I’m currently learning Python**
+- ⚡ **I’m currently using ..**
+
+[![](https://img.shields.io/badge/Linux-Kali-1793D1?style=flat-square&logo=kali%20linux&logoColor=ffffff)](https://www.kali.org/)
+[![](https://img.shields.io/badge/macOS-Monterey-1793D1?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/zh-cn/)
+[![](https://img.shields.io/badge/Windows-11-1793D1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-1793D1?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-IDEA-1793D1?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+
+
+
+[![](https://img.shields.io/badge/Image-PhotoShop-57A143?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](www.adobe.com/hk_zh/products/photoshop.html)
+[![](https://img.shields.io/badge/Clip-After%20Effect-57A143?style=flat-square&logo=adobeaftereffects&logoColor=ffffff)](www.adobe.com/hk_zh/products/photoshop.html)
+
+<br/>
+
+
+
+[![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/Jasoncottom)[![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/Jasoncottom)
+
+
+
+
+
+
+
+- 📫 **How to reach me:**
+
+[![](https://img.shields.io/badge/Outlook-GAVTLHK-orange?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](http://GAVTLHK@outlook.com)
+[![](https://img.shields.io/badge/Gmail-GAVTLHK-orange?style=flat-square&logo=gmail&logoColor=ffffff)](http://GAVTLHK@gmail.com)
+
+[![](https://img.shields.io/badge/GitHub-Jasoncottom-2376bc?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Jasoncottom)
+[![](https://img.shields.io/badge/Gitee-GAVT-2376bc?style=flat-square&logo=gitee&logoColor=red)](https://gitee.com/gvat)
+[![](https://img.shields.io/badge/CSDN-GAVT-2376bc?style=flat-square&logo=blog-CSDN&logoColor=ffffff)](https://blog.csdn.net/GAVTx?type=blog)
+
+
+<br/><br/>
