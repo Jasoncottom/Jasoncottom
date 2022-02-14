@@ -41,10 +41,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
 - 📫 **How to reach me:**
 
 [![](https://img.shields.io/badge/Outlook-GAVTLHK-orange?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](http://GAVTLHK@outlook.com)
