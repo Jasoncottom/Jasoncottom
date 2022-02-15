@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Windows-11-1793D1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-1793D1?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/H5-HBuilder-1793D1?style=flat-square&logo=HBuilder&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Editor-IDEA-1793D1?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/IDE-HBuilder-1793D1?style=flat-square&logo=html5&logoColor=ffffff)](https://code.visualstudio.com/)
+![](https://img.shields.io/badge/IDE-idea-1793D1?style=flat-square&logo=jetbrains&logoColor=ffffff)
+[![](https://img.shields.io/badge/IDE-Eclipse-1793D1?style=flat-square&logo=eclipse&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/IDE-PyCharm-1793D1?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
 
 [![](https://img.shields.io/badge/Image-PhotoShop-57A143?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](www.adobe.com/hk_zh/products/photoshop.html)
