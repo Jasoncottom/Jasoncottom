@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Windows-11-1793D1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-1793D1?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/H5-HBuilder-1793D1?style=flat-square&logo=HBuilder&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-IDEA-1793D1?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
 
