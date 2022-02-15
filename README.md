@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasoncottom&theme=nord_bright)
 
-
 <br/>
-
 - 🔭 **I’m currently working on Backend**
 - 🌱 **I’m currently learning Python**
 - ⚡ **I’m currently using ..**
@@ -27,7 +25,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-1793D1?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-IDEA-1793D1?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-
 
 
 [![](https://img.shields.io/badge/Image-PhotoShop-57A143?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](www.adobe.com/hk_zh/products/photoshop.html)
