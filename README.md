@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 -->
 
 
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasoncottom&theme=nord_bright)
 
 <br/>
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
 
 - 📫 **How to reach me:**
 
+
 [![](https://img.shields.io/badge/Outlook-GAVTLHK-orange?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](http://GAVTLHK@outlook.com)
 [![](https://img.shields.io/badge/Gmail-GAVTLHK-orange?style=flat-square&logo=gmail&logoColor=ffffff)](http://GAVTLHK@gmail.com)
 
@@ -54,3 +57,5 @@ Here are some ideas to get you started:
 
 
 <br/><br/>
+
+
