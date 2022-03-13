@@ -35,10 +35,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Image-PhotoShop-57A143?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](www.adobe.com/hk_zh/products/photoshop.html)
 [![](https://img.shields.io/badge/Clip-After%20Effect-57A143?style=flat-square&logo=adobeaftereffects&logoColor=ffffff)](www.adobe.com/hk_zh/products/photoshop.html)
 
+
 <br/>
 
 
+
 [![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/Jasoncottom)[![](https://raw.githubusercontent.com/Jasoncottom/Jasoncottom/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/Jasoncottom)
+
 
 
 
