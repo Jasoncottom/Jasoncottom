@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasoncottom&theme=nord_bright)
 
+
+
+
 <br/>
+
+
+
 
 - 🔭 **I’m currently working on Backend**
 - 🌱 **I’m currently learning Python**
