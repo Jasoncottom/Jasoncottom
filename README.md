@@ -22,8 +22,18 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 **I’m currently working on Backend**
-- 🌱 **I’m currently learning Python**
+# Hi, I'm Jason
+
+Computer Science graduate with experience in:
+
+- Backend development
+- Linux server deployment
+- Hardware troubleshooting
+- Embedded systems
+- Automation scripting
+
+I enjoy building practical tools combining software and hardware.
+
 - ⚡ **I’m currently using ..**
 
 [![](https://img.shields.io/badge/Linux-Kali-1793D1?style=flat-square&logo=kali%20linux&logoColor=ffffff)](https://www.kali.org/)
